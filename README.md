@@ -23,6 +23,4 @@ npm start
 
 - **[ManuelMaciel](https://github.com/manuelmaciel)**
 
-### License
-
-This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/aman-atg/react-product-card/blob/master/LICENSE) file for details
+details
